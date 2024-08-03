@@ -1,0 +1,10 @@
+## Interface: 12200
+## Title: |cffe3fdffIconic
+## Author: Conj, mod by Alchem1ster
+## Version: 1.1_Vanilla
+## Notes: Improves the default macro icon selection system by adding a search bar
+## LoadOnDemand: 1
+## LoadWith: Blizzard_MacroUI
+
+Iconic.lua
+Iconic.xml
