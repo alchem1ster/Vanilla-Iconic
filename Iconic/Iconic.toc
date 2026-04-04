@@ -1,4 +1,4 @@
-## Interface: 12200
+## Interface: 11200
 ## Title: |cffe3fdffIconic
 ## Author: Conj, mod by Alchem1ster
 ## Version: 1.1_Vanilla
